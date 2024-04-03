@@ -44,5 +44,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, fee
 This project is licensed under the [MIT License](LICENSE).
 
 
-dishant440 
-git remote add origin https://github.com/dishant440/your_repository.git
